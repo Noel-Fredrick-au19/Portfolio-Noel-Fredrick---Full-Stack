@@ -13,6 +13,15 @@ I specialize in:
 
 ---
 
+
+# Demo :movie_camera:
+
+![](./public/image/screen.png)
+
+## View live preview [here](https://portfolio-noel-fredrick-full-stack.vercel.app).
+
+---
+
 ## 🌐 My Skillset
 
 - **Languages & Frameworks**: 
